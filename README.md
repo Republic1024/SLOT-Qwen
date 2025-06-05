@@ -94,7 +94,16 @@ output = generate_with_delta(model, tokenizer, prompt, delta, max_new_tokens=200
 ## 📂 Project Structure
 
 ```
-SLOT-Qwen
+SLOT-Qwen/
+├── delta.pt                  # 保存的 delta 向量（引导提示用）
+├── LICENSE                   # 开源协议
+├── preprocess.py             # 日志预处理与 delta 构造脚本
+├── README.md                 # 项目说明文档
+├── requirements.txt          # Python 依赖列表
+├── SLOT-Qwen3_final.html     # Jupyter Notebook 的 HTML 导出版本（用于展示）
+├── SLOT-Qwen3_final.ipynb    # 主实验 Notebook，包含完整实验流程
+├── SLOT_Paper.pdf            # SLOT 原始论文（参考用）
+
 ```
 
 ---
