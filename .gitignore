@@ -10,6 +10,8 @@ __pycache__/
 *.html
 .idea/
 
+# Qwen
+Qwen3-1.7B/
 # Distribution / packaging
 .Python
 build/
