@@ -803,8 +803,7 @@ x\text{，}-1\leq x\leq2\\
         C. $\frac{11}{4}$
         D. 3
         
-        答案是：","C
-        解析",C,A,False,advanced_mathematics
+        答案是：",$\frac{11,,A,False,advanced_mathematics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -889,7 +888,8 @@ x\text{，}-1\leq x\leq2\\
         C. 莎士比
         D. 莫里哀
         
-        答案是：",C. 莎,C,C,True,art_studies
+        答案是：","____
+        A.",A,C,False,art_studies
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -1397,7 +1397,8 @@ x\text{，}-1\leq x\leq2\\
         C. 生成酮体
         D. 合成磷脂
         
-        答案是：",C. 生成酮,C,C,True,basic_medicine
+        答案是：","C
+        �",C,C,True,basic_medicine
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -1668,8 +1669,8 @@ x\text{，}-1\leq x\leq2\\
         C. 对控股子公司的投资
         D. 不具有共同控制或重大影响关系，但在活跃的市场中有报价、公允价值，能够可靠计量的投资
         
-        答案是：","A
-        解析",A,A,True,business_administration
+        答案是：","C
+        解析",C,A,False,business_administration
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -1938,8 +1939,7 @@ x\text{，}-1\leq x\leq2\\
         C. 表示假设
         D. 表示因果
         
-        答案是：","A
-        《",A,C,False,chinese_language_and_literature
+        答案是：",B. 表示,B,C,False,chinese_language_and_literature
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -2146,7 +2146,7 @@ x\text{，}-1\leq x\leq2\\
         C. 被动句
         D. 双宾语句
         
-        答案是：",A. 连谓,A,B,False,chinese_language_and_literature
+        答案是：",B. 兼语,B,B,True,chinese_language_and_literature
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -2354,8 +2354,7 @@ x\text{，}-1\leq x\leq2\\
         C. 领导机构、办公办事机构、职能机构和派出机构四类
         D. 中央国家行政机关和地方国家行政机关两大类
         
-        答案是：","D
-        我",D,D,True,civil_servant
+        答案是：",D。,D,D,True,civil_servant
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -2468,7 +2467,7 @@ x\text{，}-1\leq x\leq2\\
         D. 相信 朴素 表明
         
         答案是：","C
-        解析",C,D,False,civil_servant
+        选项",C,D,False,civil_servant
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -2728,7 +2727,7 @@ x\text{，}-1\leq x\leq2\\
         D. 薄弱 不可捉摸
         
         答案是：","B
-        解析",B,A,False,civil_servant
+        �",B,A,False,civil_servant
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -2779,7 +2778,7 @@ x\text{，}-1\leq x\leq2\\
         D. 高危险组以介入治疗为首选
         
         答案是：","C
-        选项",C,D,False,clinical_medicine
+        详细",C,D,False,clinical_medicine
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -3165,7 +3164,7 @@ x\text{，}-1\leq x\leq2\\
         D. $V_{NaOH}=2/3V_{KMnO_4}$
         
         答案是：","D
-        解析",D,B,False,college_chemistry
+        详细",D,B,False,college_chemistry
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -3390,7 +3389,8 @@ x\text{，}-1\leq x\leq2\\
         C. 一个人增加他所消费的所有商品的数量
         D. 供给量沿着供给曲线增加
         
-        答案是：",A. 供给曲线,A,A,True,college_economics
+        答案是：","A
+        技",A,A,True,college_economics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -3416,7 +3416,7 @@ x\text{，}-1\leq x\leq2\\
         D. 在古典世界里，给定的货币数量的变化对收入水平的影响最小
         
         答案是：","C
-        解析",C,D,False,college_economics
+        在古典",C,D,False,college_economics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -3501,8 +3501,7 @@ x\text{，}-1\leq x\leq2\\
         C. 大于1
         D. 大于0小于1
         
-        答案是：","A. 0
-",A,A,True,college_economics
+        答案是：",C. 大于,C,A,False,college_economics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -3673,7 +3672,8 @@ x\text{，}-1\leq x\leq2\\
         C. 在预算约束内实现效用最小化
         D. 在一定的效用水平内实现预算约束最大化
         
-        答案是：",A. 在预算约束,A,A,True,college_economics
+        答案是：","A
+        解析",A,A,True,college_economics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -3760,7 +3760,8 @@ x\text{，}-1\leq x\leq2\\
         C. 1
         D. 6
         
-        答案是：",A. 1/,A,B,False,college_economics
+        答案是：","B
+        解析",B,B,True,college_economics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -3798,7 +3799,7 @@ x\text{，}-1\leq x\leq2\\
         D. 劳动力市场在效率工资水平下出清
         
         答案是：","B
-        解析",B,B,True,college_economics
+        详细",B,B,True,college_economics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -3909,8 +3910,7 @@ x\text{，}-1\leq x\leq2\\
         C. 名义利率减去折旧率
         D. 名义利率
         
-        答案是：","B
-        在不",B,B,True,college_economics
+        答案是：",B。,B,B,True,college_economics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -3922,7 +3922,8 @@ x\text{，}-1\leq x\leq2\\
         C. MR=18
         D. MR=1
         
-        答案是：",B. MR=4,B,B,True,college_economics
+        答案是：","B
+        解析",B,B,True,college_economics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -4097,8 +4098,8 @@ x\text{，}-1\leq x\leq2\\
         C. 间隔不变，向棱边方向平移
         D. 间隔变小，并向远离棱边方向平移
         
-        答案是：","A
-        详细",A,A,True,college_physics
+        答案是：","B
+        详细",B,A,False,college_physics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -4463,7 +4464,7 @@ The unicycle2 has 4 wheel.
         C. 必须声明在类开始处
         D. 可以声明在类中任何地方
         
-        答案是：",C. 必须,C,D,False,college_programming
+        答案是：",D. 可以,D,D,True,college_programming
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -4769,8 +4770,8 @@ else return n*fact(n-1);
         C. ( 17, 16, 15, 14, 11, 13, 10, 12, 5, 8, 9, 6, 7， 3， 4 )
         D. ( 17, 16, 14, 15, 11, 13, 10, 12, 5, 8, 9, 6, 7, 3, 4 )
         
-        答案是：","C
-        根",C,D,False,college_programming
+        答案是：","A
+        根",A,D,False,college_programming
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -4902,8 +4903,8 @@ else return n*fact(n-1);
         C. 4
         D. 5
         
-        答案是：","C
-        解析",C,C,True,computer_architecture
+        答案是：","B. 3
+",B,C,False,computer_architecture
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -5227,7 +5228,7 @@ else return n*fact(n-1);
         D. Ⅱ、Ⅲ、Ⅳ
         
         答案是：","A
-        解析",A,D,False,computer_network
+        局",A,D,False,computer_network
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -5405,8 +5406,8 @@ else return n*fact(n-1);
         C. 6
         D. 5
         
-        答案是：","B. 7
-",B,A,False,discrete_mathematics
+        答案是：","C. 6
+",C,A,False,discrete_mathematics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -5418,8 +5419,8 @@ else return n*fact(n-1);
         C. 4
         D. 5
         
-        答案是：","A. 2
-",A,C,False,discrete_mathematics
+        答案是：","A
+        解析",A,C,False,discrete_mathematics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -5837,7 +5838,7 @@ else return n*fact(n-1);
         D. 对普通教育、职业教育、技术教育和高等教育的改革提出了具体的要求和措施
         
         答案是：","A
-        详细",A,A,True,education_science
+        请",A,A,True,education_science
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -6487,8 +6488,7 @@ else return n*fact(n-1);
         C. 经环境保护行政主管部门审核并签署意见后，报交通行政主管部门批准
         D. 经交通行政主管部门预审后，报环境保护行政主管部门审批
         
-        答案是：","C
-        解析",C,C,True,environmental_impact_assessment_engineer
+        答案是：",C。,C,C,True,environmental_impact_assessment_engineer
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -6689,7 +6689,7 @@ else return n*fact(n-1);
         D. 若因为探测器或模块等设备造成通讯故障，更换或维修相应设备
         
         答案是：","A
-        选项",A,A,True,fire_engineer
+        解析",A,A,True,fire_engineer
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -7187,7 +7187,7 @@ else return n*fact(n-1);
         D. 六倍体，体细胞内含有六个染色体组
         
         答案是：","A
-        解析",A,B,False,high_school_biology
+        详细",A,B,False,high_school_biology
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -7537,7 +7537,7 @@ else return n*fact(n-1);
         C. 烧碱溶液
         D. 稀硫酸
         
-        答案是：",A. 稀,A,A,True,high_school_chemistry
+        答案是：",B. 水,B,A,False,high_school_chemistry
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -7901,7 +7901,7 @@ else return n*fact(n-1);
         D. 湿润地区与半湿润地区
         
         答案是：","D
-        解析",D,C,False,high_school_geography
+        请",D,C,False,high_school_geography
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -7914,7 +7914,7 @@ else return n*fact(n-1);
         D. 从业人员全部是科学家和工程师
         
         答案是：","C
-        详细",C,C,True,high_school_geography
+        选项",C,C,True,high_school_geography
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -7950,7 +7950,7 @@ else return n*fact(n-1);
         C. 人力为主,机械化水平低
         D. 水热资源丰富,水利工程量小
         
-        答案是：",A. 单产,A,C,False,high_school_geography
+        答案是：",C. 人力为主,C,C,True,high_school_geography
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -8050,7 +8050,8 @@ else return n*fact(n-1);
         C. 银河系
         D. 太阳系
         
-        答案是：",D. 太阳,D,B,False,high_school_geography
+        答案是：","D
+        解析",D,B,False,high_school_geography
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -8166,7 +8167,7 @@ else return n*fact(n-1);
         D. 科学技术的快速发展
         
         答案是：","B
-        解析",B,B,True,high_school_history
+        详细",B,B,True,high_school_history
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -8321,8 +8322,7 @@ else return n*fact(n-1);
         C. $\left[2,+\infty\right)$
         D. $\emptyset$
         
-        答案是：","A
-        解析",A,C,False,high_school_mathematics
+        答案是：","$\left(0,",,C,False,high_school_mathematics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -8346,7 +8346,7 @@ else return n*fact(n-1);
         C. 242
         D. 243
         
-        答案是：",B. 24,B,D,False,high_school_mathematics
+        答案是：",C. 24,C,D,False,high_school_mathematics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -8538,8 +8538,9 @@ else return n*fact(n-1);
         C. $f(2^{0.6})< f(-\log_{3}13) <f(-3)$
         D. $f(2^{0.6})<f(-3)< f(-\log_{3}13) $
         
-        答案是：","B
-        解析",B,C,False,high_school_mathematics
+        答案是：","____
+        
+        ",,C,False,high_school_mathematics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -8590,7 +8591,7 @@ else return n*fact(n-1);
         D. 降落伞张开后下降阶段
         
         答案是：","B
-        解析",B,B,True,high_school_physics
+        详细",B,B,True,high_school_physics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -8628,7 +8629,8 @@ else return n*fact(n-1);
         C. 电动机的电流小于电炉的电流
         D. 无法判断
         
-        答案是：",B. 电动机,B,C,False,high_school_physics
+        答案是：","B
+        详细",B,C,False,high_school_physics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -8915,8 +8917,7 @@ else return n*fact(n-1);
         C. ②③
         D. ③④
         
-        答案是：","C
-        解析",C,C,True,high_school_politics
+        答案是：",C。,C,C,True,high_school_politics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -9031,7 +9032,7 @@ else return n*fact(n-1);
         D. 在对立中实现统一
         
         答案是：","A
-        解析",A,A,True,high_school_politics
+        这",A,A,True,high_school_politics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -9587,8 +9588,8 @@ else return n*fact(n-1);
         C. 乙将债务转让给戊的行为无效
         D. 如乙清偿10万元债务，则享有对戊的求偿权
         
-        答案是：","D
-        选项",D,D,True,law
+        答案是：","C
+        选项",C,D,False,law
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -9640,7 +9641,7 @@ else return n*fact(n-1);
         D. 甲县检察机关审查起诉王某贪污一案，如果甲县检察机关认为王某可能被判处死刑，将案件移交某市检察机关审查起诉的，某市检察机关应当累计计算审查起诉期限
         
         答案是：","B
-        解析",B,C,False,legal_professional
+        选项",B,C,False,legal_professional
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -9869,7 +9870,8 @@ else return n*fact(n-1);
         C. 实行多元归责原则
         D. 实行单一归责原则
         
-        答案是：",D. 实行单一,D,C,False,legal_professional
+        答案是：","D
+        国",D,C,False,legal_professional
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -9981,7 +9983,7 @@ else return n*fact(n-1);
         C. 仅Ⅱ、Ⅲ和Ⅳ。
         D. 仅Ⅰ、Ⅱ和Ⅲ。
         
-        答案是：",C。,C,D,False,logic
+        答案是：",C。解析：根据,C,D,False,logic
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -10056,7 +10058,7 @@ else return n*fact(n-1);
         C. 班长及格，但学习委员没及格
         D. 班长没及格，但学习委员及格了。
         
-        答案是：",C。,C,A,False,logic
+        答案是：",B. 班,B,A,False,logic
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -10141,7 +10143,7 @@ else return n*fact(n-1);
         C. 任何默认的承诺都比表达的承诺更重要。
         D. 违背默认的承诺有时要比违背表达的承诺更不好。
         
-        答案是：",D。,D,D,True,logic
+        答案是：",C。,C,D,False,logic
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -10317,7 +10319,7 @@ else return n*fact(n-1);
         D. 中央授权之外的剩余权力
         
         答案是：","B
-        解析",B,A,False,mao_zedong_thought
+        �",B,A,False,mao_zedong_thought
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -10440,7 +10442,8 @@ else return n*fact(n-1);
         C. 司法
         D. 守法
         
-        答案是：",A. 立,A,A,True,mao_zedong_thought
+        答案是：","A
+        �",A,A,True,mao_zedong_thought
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -10516,7 +10519,7 @@ else return n*fact(n-1);
         D. 事物的规模、发展程度和速度等规定性
         
         答案是：","C
-        请",C,C,True,marxism
+        详细",C,C,True,marxism
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -10615,7 +10618,7 @@ else return n*fact(n-1);
         C. 物质运动和时空不可分割的观点
         D. 运动和静止相统一的观点
         
-        答案是：",A. 世界的物质,A,D,False,marxism
+        答案是：",B. 物质,B,D,False,marxism
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -10639,7 +10642,8 @@ else return n*fact(n-1);
         C. 价值形成过程和价值增殖过程的统一
         D. 价值转移过程和价值形成过程的统一
         
-        答案是：",A. 劳动,A,A,True,marxism
+        答案是：","A
+        请",A,A,True,marxism
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -10825,7 +10829,7 @@ else return n*fact(n-1);
         C. 判别其是否是异常值，确为异常值的予以剔除
         D. 废弃这组测量值，重新测量，获得一组新的测量值
         
-        答案是：",C. 判别,C,C,True,metrology_engineer
+        答案是：",C。,C,C,True,metrology_engineer
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -11689,7 +11693,8 @@ else return n*fact(n-1);
         C. 1840年鸦片战争
         D. 戊戌变法法令的颁布
         
-        答案是：",A. 辛亥,A,A,True,middle_school_history
+        答案是：","A
+        你的",A,A,True,middle_school_history
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -12158,7 +12163,7 @@ else return n*fact(n-1);
         C. 长方形
         D. 正方形
         
-        答案是：",A. 平行,A,B,False,middle_school_mathematics
+        答案是：",D. 正方形,D,B,False,middle_school_mathematics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -12196,8 +12201,7 @@ else return n*fact(n-1);
         C. 开关接在灯泡和零线之间
         D. 使用测电笔时手接触笔尖金属体
         
-        答案是：","B
-        在全国",B,B,True,middle_school_physics
+        答案是：",B. 更换灯,B,B,True,middle_school_physics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -12284,7 +12288,7 @@ else return n*fact(n-1);
         C. 绿光
         D. 紫光
         
-        答案是：",A. 红,A,C,False,middle_school_physics
+        答案是：",D. 紫,D,C,False,middle_school_physics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -12471,7 +12475,7 @@ else return n*fact(n-1);
         D. ③④
         
         答案是：","A
-        选项",A,A,True,middle_school_politics
+        根",A,A,True,middle_school_politics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -12663,8 +12667,8 @@ else return n*fact(n-1);
         C. ②③④
         D. ①③④
         
-        答案是：","A
-        你的",A,A,True,middle_school_politics
+        答案是：","D
+        选项",D,A,False,middle_school_politics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -12985,7 +12989,8 @@ else return n*fact(n-1);
         C. 三民主义发展为新三民主义
         D. 中共“三大”的召开
         
-        答案是：",A. 国民,A,A,True,modern_chinese_history
+        答案是：","A
+        详细",A,A,True,modern_chinese_history
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -13170,7 +13175,8 @@ else return n*fact(n-1);
         D. cd
         
         答案是：","C. cd .
-       ",C,D,False,operating_system
+        
+",C,D,False,operating_system
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -13317,7 +13323,8 @@ else return n*fact(n-1);
         C. 4，9，9
         D. 9，9，4
         
-        答案是：",C. 4，,C,A,False,physician
+        答案是：","C
+        解析",C,A,False,physician
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -13577,7 +13584,7 @@ else return n*fact(n-1);
         C. 类风湿性关节炎
         D. 新生儿溶血症
         
-        答案是：",C. 类风湿性,C,B,False,physician
+        答案是：",D. 新生儿,D,B,False,physician
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -13724,7 +13731,8 @@ else return n*fact(n-1);
         C. 保持理想体重
         D. 限制高嘌呤食物摄入
         
-        答案是：",D. 限制高,D,B,False,physician
+        答案是：","D
+        选项",D,B,False,physician
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -14341,8 +14349,9 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         C. $\mathrm{D}(\bar{X}+\bar{Y})=\frac{1}{8}+\frac{1}{7}$
         D. $\bar{X}-\bar{Y} \sim \mathrm{N}\left(\mu_1-\mu_2, \frac{1}{8}+\frac{1}{7}\right)$
         
-        答案是：","A
-        选项",A,B,False,probability_and_statistics
+        答案是：","____
+        
+        ",,B,False,probability_and_statistics
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -14415,7 +14424,8 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         C. 华山最高峰南峰海拔1800米，自古以险闻名遐迩
         D. 衡山有七十二峰，三大主峰莲花峰、天都峰、祝融峰都超过1800米
         
-        答案是：",A. 泰山,A,A,True,professional_tour_guide
+        答案是：","C
+        选项",C,A,False,professional_tour_guide
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -15115,8 +15125,8 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         C. 律师个人承担的按照律师协会规定参加的业务培训费用，不得扣除
         D. 受雇于律师事务所的律师从事务所取得的分成收入，应单独作为一个月的工资、薪金，扣除办案费用后缴纳个人所得税
         
-        答案是：","A
-        选项",A,B,False,tax_accountant
+        答案是：","D
+        解析",D,B,False,tax_accountant
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -15233,7 +15243,7 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         D. 调增2019年年初未分配利润135万元
         
         答案是：","D
-        详细",D,D,True,tax_accountant
+        甲",D,D,True,tax_accountant
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -15348,7 +15358,7 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         D. 甲应把自己的汽车交付给乙，抵押权才生效
         
         答案是：","C
-        解析",C,B,False,tax_accountant
+        选项",C,B,False,tax_accountant
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -15361,7 +15371,7 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         D. 丙有权按50%的比例分红，但应当承担未足额出资的违约责任
         
         答案是：","B
-        解析",B,B,True,tax_accountant
+        详细",B,B,True,tax_accountant
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -15487,7 +15497,8 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         C. 3.3
         D. 3.6
         
-        答案是：",B. 1.,B,A,False,tax_accountant
+        答案是：","B
+        2",B,A,False,tax_accountant
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -15621,7 +15632,7 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         C. 强制要求小文将头发颜色染回来才可以进校门
         D. 探明小文违反校规的原因，并对其进行劝导和教育
         
-        答案是：",D。,D,D,True,teacher_qualification
+        答案是：",D。解析：根据,D,D,True,teacher_qualification
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -15645,8 +15656,7 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         C. 不正确，教师没有权利指导家长
         D. 不正确，教师应该与家长建立平等的沟通关系，尊重家长的人格
         
-        答案是：","D
-        刘",D,D,True,teacher_qualification
+        答案是：",D. 不正确，,D,D,True,teacher_qualification
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -16071,6 +16081,7 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         D. 麦加清真寺
         
         答案是：","A. 金字塔
+        
 ",A,A,True,teacher_qualification
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
@@ -16306,7 +16317,7 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         C. 人口规模
         D. 基础设施和公共设施配套水平
         
-        答案是：",A. 城,A,A,True,urban_and_rural_planner
+        答案是：",D. 基,D,A,False,urban_and_rural_planner
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -16911,8 +16922,8 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         C. 所带电荷不确定
         D. 所带正、负电荷相等
         
-        答案是：","A
-        解析",A,D,False,veterinary_medicine
+        答案是：","D
+        解析",D,D,True,veterinary_medicine
 "请你扮演一位专业的考试助手，阅读下面的单项选择题，并根据内容在四个选项中选出最合适的一个。
         
         题目：
@@ -16949,5 +16960,4 @@ $\left(X_{1},X_{2},\cdots,X_{n}\right)$为来自总体的样本,设有以下四�
         D. rRNA
         
         答案是：","A. DNA
-
        ",A,C,False,veterinary_medicine
