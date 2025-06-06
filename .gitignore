@@ -12,6 +12,8 @@ __pycache__/
 
 # Qwen
 Qwen3-1.7B/
+Qwen3-4B/
+Qwen3-0.6B/
 # Distribution / packaging
 .Python
 build/
