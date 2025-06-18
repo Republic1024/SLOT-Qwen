@@ -14,6 +14,8 @@ __pycache__/
 Qwen3-1.7B/
 Qwen3-4B/
 Qwen3-0.6B/
+Qwen3-Reranker-0.6B/
+Qwen3-Embedding-0.6B/
 # Distribution / packaging
 .Python
 build/
